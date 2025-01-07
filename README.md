@@ -1,6 +1,6 @@
 # Machine_Learning-Code_and_Dataset
 
-The specific experimental data from the two sets of experiments have been made publicly available. Exp1 consists of data collected at the East Annex of the Library at Beihang University, further divided into real-time collected datasets and later collected datasets. Exp2 consists of data collected at the New Main Building at Beihang University.
+The specific experimental data  consists of data collected at the New Main Building at Beihang University.
 
 Each dataset includes training and testing sets that have been processed, interpolated, and normalized. The input data consists of:
 
